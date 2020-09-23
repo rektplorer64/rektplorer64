@@ -11,6 +11,14 @@ I am a senior student from the Faculty of Information and Communication Technolo
 - ☕ Java software development
 - 🎨 UI/UX design
 
+# 🌱 I'm currently learning...
+- Machine Learning and Deep Learning
+
+# ✅ TODO
+- Learn Flutter
+- Learn Android Jetpack Compose
+- Learn iOS Application Development
+- Build some web app
 <!--
 **rektplorer64/rektplorer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
