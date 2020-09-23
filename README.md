@@ -1,5 +1,5 @@
 # Hello there 👋
-![Hello there](hello-there.gif)
+![Hello there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 # 😎 Who am I?
 My name is Tanawin Wichit! You can call me "Pooh"!
