@@ -1,4 +1,3 @@
-# Hello there 👋
 ![Hello there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 # 😎 Who am I?
