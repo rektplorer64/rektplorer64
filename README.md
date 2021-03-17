@@ -5,8 +5,8 @@ My name is Tanawin Wichit! You can call me "Pooh"!
 I am a senior student from the Faculty of Information and Communication Technology, Mahidol University.
 
 # Stats Flex
-[![rektplorer64's github stats](https://github-readme-stats.vercel.app/api?username=rektplorer64&bg_color=ceb0e9,f1dce4,ffffdc&show_icons=true&count_private=true)](https://github.com/rektplorer64)
-[![rektplorer64's github top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rektplorer64&layout=compact)](https://github.com/rektplorer64)
+[![rektplorer64's github stats](https://github-readme-stats.vercel.app/api?username=rektplorer64&bg_color=ceb0e9,f1dce4,ffffdc&show_icons=true&count_private=true&hide=jupyter%20notebook)](https://github.com/rektplorer64)
+[![rektplorer64's github top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rektplorer64&layout=compact&hide=jupyter%20notebook)](https://github.com/rektplorer64)
 
 # My Interests
 - 💾 Database & Data warehousing
